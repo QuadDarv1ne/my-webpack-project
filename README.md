@@ -1,4 +1,4 @@
-## Создание проекта на Webpack и Babel
+# Создание проекта на Webpack и Babel
 
 ![js_webpack_babel](img/js_webpack_babel.png)
 
