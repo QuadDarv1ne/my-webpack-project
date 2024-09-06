@@ -2,10 +2,10 @@
 
 ![js_webpack_babel](img/js_webpack_babel.png)
 
-### Описание:
+### Описание
 Установка необходимых пакетов для работы с Webpack и Babel
 
-### Используемые команды:
+### Используемые команды
 - `npm install --save-dev webpack webpack-cli` - установка Webpack и Webpack CLI
 - `npm install --save-dev babel-loader @babel/core @babel/preset-env` - установка Babel и необходимых плагинов
 - `npm install --save-dev webpack-dev-server` - установка Webpack Dev Server
@@ -27,7 +27,7 @@ npm run build <= запуск сборки проекта
 npm run dev <= запуск develop проекта
 ```
 
-### Полезные ссылки:
+### Полезные ссылки
 ```
 [Webpack] https://webpack.js.org/
 [Babel] https://babeljs.io/
