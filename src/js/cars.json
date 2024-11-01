@@ -1,0 +1,58 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "description": "Надежный и комфортный седан.",
+        "image": "./assets/images/toyota_camry.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "description": "Спортивный автомобиль с мощным двигателем.",
+        "image": "./assets/images/ford_mustang.jpg"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "description": "Электрический седан с высокой производительностью.",
+        "image": "./assets/images/tesla_model_3.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "description": "Компактный и экономичный автомобиль.",
+        "image": "./assets/images/honda_civic.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2022,
+        "description": "Просторный седан для всей семьи.",
+        "image": "./assets/images/chevrolet_malibu.jpg"
+    },
+    {
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2021,
+        "description": "Комфортный седан с хорошей управляемостью.",
+        "image": "./assets/images/nissan_altima.jpg"
+    },
+    {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2023,
+        "description": "Элегантный и мощный спортивный седан.",
+        "image": "./assets/images/bmw_3_series.jpg"
+    },
+    {
+        "make": "Audi",
+        "model": "A4",
+        "year": 2022,
+        "description": "Современный седан с высоким уровнем комфорта.",
+        "image": "./assets/images/audi_a4.jpg"
+    }
+]
